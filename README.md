@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Atharv Suhas Dabadgaonkar</h1>
-<h3 align="center">🚀 Ex-Data Engineer & Analyst @ <a href="https://nmdinfotechservices.com/">NMD InfoTech</a> | AWS Certified | Tableau Certified </h3>
+<h3 align="center">🚀 Ex- Product & Data Analyst @ <a href="https://nmdinfotechservices.com/">NMD InfoTech</a> | AWS Certified | Tableau Certified </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-yellow?logo=amazon-aws" alt="AWS Certified" />
