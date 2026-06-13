@@ -42,7 +42,7 @@
 - 📊 **2+ years as a Data Analyst at NMD Infotech (India)** delivering business insights through SQL analytics, Python-based data processing, and BI dashboards.
 - 📈 Built analytical dashboards and reports that improved data visibility and supported faster operational decision-making.
 - 🔍 Performed large-scale **data cleaning, exploratory analysis, and KPI tracking** for business reporting and performance monitoring.
-- 🎓 Maintaining a **3.9 GPA in MS Information Systems** while completing advanced projects in analytics and machine learning..
+- 🎓 Graduated with **3.9 GPA in MS Information Systems** while completing advanced projects in analytics and machine learning..
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/atharvsuhasd/)
