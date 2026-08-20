@@ -1,7 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Atharv Suhas Dabadgaonkar</h1>
-<h3 align="center">🚀 Product Manager | Product Analytics | AI & Data-Driven Products | AWS Certified | Tableau Certified</h3>
+<h3 align="center">🚀 Product Manager @ DXC Technology | Product Analytics | AI & Data-Driven Products | AWS Certified | Tableau Certified</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-yellow?logo=amazon-aws" alt="AWS Certified" />
