@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Atharv Suhas Dabadgaonkar</h1>
-<h3 align="center">🚀 Ex- Product & Data Analyst @ <a href="https://nmdinfotechservices.com/">NMD InfoTech</a> | AWS Certified | Tableau Certified </h3>
+<h3 align="center">🚀 Product Manager | Product Analytics | AI & Data-Driven Products | AWS Certified | Tableau Certified</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-yellow?logo=amazon-aws" alt="AWS Certified" />
@@ -12,37 +12,43 @@
 ---
 
 ### 💡 What I'm Working On
-- **End-to-End Data Analytics Projects** – Developing analytics pipelines using **Python, SQL, and Pandas** for data preprocessing, exploratory data analysis, and insight generation.
-- **Business Intelligence Dashboards** – Creating interactive dashboards in **Power BI and Tableau** to monitor KPIs, identify trends, and support data-driven decision making.
-- **Machine Learning Modeling** – Building predictive models with **scikit-learn**, performing feature engineering, model evaluation, and hyperparameter tuning.
-- **SQL Analytics & Data Modeling** – Practicing advanced SQL queries, joins, aggregations, and relational data modeling for efficient reporting and analysis.
-- **Product Management Exploration** – Applying **data-driven product thinking**, analyzing user metrics, defining KPIs, and exploring product strategy and experimentation.
+- **Product Strategy & Roadmapping** – Translating customer needs and business objectives into **product vision, roadmaps, MVPs, and prioritized feature backlogs**.
+- **Product Analytics & Experimentation** – Using **SQL, Python, Mixpanel, Amplitude, and BI tools** to analyze user behavior, define KPIs, evaluate funnels, and support data-driven product decisions.
+- **AI-Powered Product Experiences** – Exploring **GenAI, RAG, LLMs, semantic search, and AI agents** to build intelligent, user-focused product experiences.
+- **Customer & Product Discovery** – Applying **user research, customer feedback, journey mapping, competitive analysis, and product discovery** to identify problems and uncover product opportunities.
+- **Business Intelligence & Data Analytics** – Creating analytical solutions in **Power BI and Tableau** to monitor product and business performance, identify trends, and communicate actionable insights.
 
-### 🧰 Tech Toolbox
+### 🧰 Product & Tech Toolbox
 | | |
 | --- | --- |
-| **Languages** | Python · SQL · Bash |
-| **Frameworks / Orchestration** | Spark / PySpark · Airflow · dbt · Docker · **n8n** · GitHub Actions |
-| **Cloud & Warehouses** | AWS (S3, Lambda, Glue, Redshift, EC2) · Snowflake · Databricks |
-| **Databases** | PostgreSQL · Oracle · SQL Server · MySQL |
-| **BI & Apps** | Tableau · Power BI · QuickSight · Apache Superset · Streamlit |
-| **Product & Analytics** | KPI Tracking · Product Metrics · A/B Testing · Data-Driven Decision Making |
-| **Extras** | Pandas · NumPy · scikit‑learn · Matplotlib · Plotly · PyInstaller |
+| **Product Management** | Product Strategy · Product Roadmaps · Product Discovery · MVP Definition · Feature Prioritization · Product Lifecycle |
+| **Product Analytics** | KPI Development · Funnel Analysis · Cohort Analysis · A/B Testing · User Behavior Analysis · Customer Journey Analysis |
+| **Agile & Delivery** | Agile · Scrum · Kanban · SAFe · Sprint Planning · Backlog Management · User Stories · Acceptance Criteria |
+| **Customer & Research** | User Research · Voice of Customer (VoC) · Customer Feedback · Market Research · Competitive Analysis · Journey Mapping |
+| **Data & Analytics** | Python · SQL · Pandas · Advanced Excel · Tableau · Power BI |
+| **Product Analytics Tools** | Mixpanel · Amplitude · Google Analytics · Looker Studio |
+| **AI Products** | GenAI · RAG · LLM Evaluation · Prompt Engineering · AI Agents · Semantic Search · Embeddings |
+| **Cloud & Integrations** | AWS · Azure · REST APIs · API Integration · SaaS Products |
 
-### ⚙️ Techniques I Practice
-- **Dimensional data modeling** (Star/Snowflake schemas, fact & dimension tables)
-- **ETL/ELT & data quality** with dbt tests, Airflow scheduling, n8n automations
-- **CI/CD pipelines** using GitHub Actions & Docker‑based deployments
-- **Containerization & Infrastructure‑as‑Code** for reproducible environments
-- **API integration & web scraping** (REST, GraphQL, XML, CSV flat‑files)
-- **Product analytics thinking** through KPI tracking, metric definition, and data-driven decision support.
-- **Interactive storytelling** in Tableau, Superset, and Streamlit
+### ⚙️ Product Practices I Apply
+- **Product discovery** through customer needs, user feedback, market research, and problem validation
+- **Roadmap & feature prioritization** based on business value, customer impact, product metrics, and technical feasibility
+- **Product analytics** through KPI development, funnel analysis, cohort analysis, and user behavior analysis
+- **Experimentation & A/B testing** to validate hypotheses and measure feature impact
+- **Agile product delivery** through backlog management, sprint planning, user stories, and acceptance criteria
+- **AI product development** using GenAI, RAG, LLMs, semantic search, and responsible AI principles
+- **Data-driven decision making** using SQL, Python, Tableau, Power BI, Mixpanel, and Amplitude
+- **Cross-functional collaboration** across product, engineering, analytics, business, and stakeholder teams
 
 ### ✨ Achievements
-- 📊 **2+ years as a Data Analyst at NMD Infotech (India)** delivering business insights through SQL analytics, Python-based data processing, and BI dashboards.
-- 📈 Built analytical dashboards and reports that improved data visibility and supported faster operational decision-making.
-- 🔍 Performed large-scale **data cleaning, exploratory analysis, and KPI tracking** for business reporting and performance monitoring.
-- 🎓 Graduated with **3.9 GPA in MS Information Systems** while completing advanced projects in analytics and machine learning..
+- 🚀 Currently working as a **Product Manager**, driving SaaS and digital product initiatives across cloud, analytics, and AI-powered product experiences.
+- 📊 Built a strong foundation in **product analytics and data analysis**, using SQL, Python, experimentation, and user behavior insights to support product decisions.
+- 📈 Worked across **product strategy, roadmap prioritization, Agile delivery, KPI development, and feature optimization** to connect customer needs with measurable business outcomes.
+- 🤖 Developed experience with **GenAI and RAG-based product solutions**, combining AI capabilities with practical enterprise use cases.
+- 🎓 Graduated with a **3.9/4.0 GPA in MS Information Systems** from California State University, Long Beach.
+
+### 🎯 Product Philosophy
+> **Build with the customer in mind, measure what matters, and use data to turn product decisions into measurable outcomes.**
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/atharvsuhasd/)
