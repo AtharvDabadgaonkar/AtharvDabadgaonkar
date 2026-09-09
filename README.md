@@ -1,6 +1,6 @@
 
 
-<h3 align="center">🚀 Product Manager @ DXC Technology | Ex-Product Analyst @ Siemens | AWS Certified | Tableau Certified</h3>
+<h3 align="center">🚀  Ex-Data Analyst @ NMD Infotech Pvt.ltd | AWS Certified | Tableau Certified</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-yellow?logo=amazon-aws" alt="AWS Certified" />
   <img src="https://img.shields.io/badge/Tableau-%20Desktop Certified-blue?logo=tableau" alt="Tableau Desktop Certified" />
