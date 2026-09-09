@@ -1,6 +1,6 @@
 
 
-<h3 align="center">🚀 Product Manager @ DXC Technology | Product Analyst @ Siemens | AWS Certified | Tableau Certified<br><img width="468" height="25" alt="Profile badges" src="https://github.com/user-attachments/assets/d9d9e3b5-6e69-464a-b260-572ba478013d" /></h3>
+<div align="center"><h3>🚀 Product Manager @ DXC Technology | Product Analyst @ Siemens | AWS Certified | Tableau Certified</h3><img width="468" height="25" alt="Profile badges" src="https://github.com/user-attachments/assets/d9d9e3b5-6e69-464a-b260-572ba478013d" /></div>
 
 ---
 
