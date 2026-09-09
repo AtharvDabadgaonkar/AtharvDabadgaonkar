@@ -39,7 +39,6 @@
 - **Cross-functional collaboration** across product, engineering, analytics, business, and stakeholder teams
 
 ### ✨ Achievements
-- 🚀 Currently working as a **Product Manager**, driving SaaS and digital product initiatives across cloud, analytics, and AI-powered product experiences.
 - 📊 Built a strong foundation in **product analytics and data analysis**, using SQL, Python, experimentation, and user behavior insights to support product decisions.
 - 📈 Worked across **product strategy, roadmap prioritization, Agile delivery, KPI development, and feature optimization** to connect customer needs with measurable business outcomes.
 - 🤖 Developed experience with **GenAI and RAG-based product solutions**, combining AI capabilities with practical enterprise use cases.
