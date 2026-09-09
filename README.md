@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Atharv Dabadgaonkar</h1><hr><h3 align="center">🚀 Product Manager @ DXC Technology | Ex-Product Analyst @ Siemens | AWS Certified | Tableau Certified<br><img src="https://img.shields.io/badge/AWS-Certified-orange?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-Certified-blue?logo=tableau&logoColor=white"></h3>
+<h1 align="center">Hi 👋, I'm Atharv Dabadgaonkar</h1><h3 align="center">🚀 Product Manager @ DXC Technology | Ex-Product Analyst @ Siemens | AWS Certified | Tableau Certified<br><img src="https://img.shields.io/badge/AWS-Certified-orange?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-Certified-blue?logo=tableau&logoColor=white"></h3>
 
 
 ### 💡 What I'm Working On
